@@ -1,0 +1,3 @@
+C:/Users/josue/Desktop/-EDD_2S-BatallaNaval_202001574/cmake-build-debug/CMakeFiles/EDD_2S_BatallaNaval_202001574.dir
+C:/Users/josue/Desktop/-EDD_2S-BatallaNaval_202001574/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josue/Desktop/-EDD_2S-BatallaNaval_202001574/cmake-build-debug/CMakeFiles/rebuild_cache.dir
