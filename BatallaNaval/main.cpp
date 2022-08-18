@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ListaCircularDoble.h"
+#include "listacirculardoble.h"
 
 using namespace::std;
 

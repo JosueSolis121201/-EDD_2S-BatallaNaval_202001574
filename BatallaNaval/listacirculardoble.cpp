@@ -1,16 +1,20 @@
 
-#include "ListaCircularDoble.h"
+#include "listacirculardoble.h"
 #include "nodo.h"
+
+ListaCircularDoble::ListaCircularDoble(){
+
+}
 
 void ListaCircularDoble::insertarNodo(){
     nodo* nuevo = new nodo();
     cout << "Ingrese el dato que contendra el nuevo Nodo: ";
     cin >> nuevo->dato;
 
-    if(primero==NULL){
-        primero = nuevo;
-        ultimo = nuevo;
-        primero->siguiente = primero;
+    if(this->primero==NULL){
+        this->primero = nuevo;
+        this->ultimo = nuevo;
+        this->primero->siguiente = this->primero;
         primero->atras = ultimo;
     }else{
         ultimo->siguiente = nuevo;
